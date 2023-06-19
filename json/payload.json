@@ -1,0 +1,51 @@
+{
+
+  "id": "com.sap.capex",
+
+  "version": "1.0.0",
+
+  "requestor": "Content Agent UI",
+
+  "exportMode": "TransportManagementService",
+
+  "exportMediaType": "MTAR",
+
+  "description": "tt",
+
+  "contentResources": [
+
+    {
+
+      "resourceID": "1bf3a19c9b5b4d7887695f9fde72bf66",
+
+      "name": "Int Flow",
+
+      "type": "CloudIntegration",
+
+      "subType": "ContentPackage",
+
+      "id": "IntFlow",
+
+      "version": "",
+
+      "components": [
+
+        {
+
+          "id": "Trial_Integration_Flow",
+
+          "name": "Trial Integration Flow",
+
+          "type": "iflow",
+
+          "isExportable": true
+
+        }
+
+      ]
+
+    }
+
+  ]
+
+}
